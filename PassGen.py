@@ -15,5 +15,6 @@ for i in range(20):
 		password += secrets.choice(string.punctuation)
 
 	
-
+print("-> Password Generator - Federico Cacace")
+print("-> @Fedekkc on Github | @Fedekkc_ on IG")
 print(password)
